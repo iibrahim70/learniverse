@@ -4,9 +4,14 @@ import { Pagination } from "swiper/modules";
 import mentorsData from "../public/mentors.json";
 import "swiper/css";
 import "swiper/css/pagination";
+
 const Mentor = () => {
   return (
     <div className="my-10">
+      <div className="space-y-2">
+        <h2 className="font-bold text-xl">Meet Our Mentors</h2>
+        <p className="pb-10">Learn from world-renowned experts.</p>
+      </div>
       <Swiper
         slidesPerView={1}
         spaceBetween={10}
@@ -31,8 +36,8 @@ const Mentor = () => {
         className="mySwiper"
       >
         {mentorsData.map((item) => (
-          <SwiperSlide>
-            <div className="rounded-xl space-y-2 p-5 text-center h-72 flex items-center justify-center flex-col shadow-xl mb-5">
+          <SwiperSlide key={item.id}>
+            <div className="rounded-xl space-y-2 p-5 text-center h-56 border-[2px] mb-5">
               <div className="avatar">
                 <div className="w-24 rounded-full">
                   <img src={item.image} alt={`Photo of ${item.name}`} />

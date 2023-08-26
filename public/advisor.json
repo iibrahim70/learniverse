@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Vivek Dwivedi",
-    "description": "Founder SciAstra, Mentor, Qualified NEST, JEE advanced, Mains, Master's Student at NISER",
-    "image": "https://example.com/university_a_image.jpg"
+    "designation": "Founder SciAstra, Mentor, Qualified NEST, JEE advanced, Mains, Master's Student at NISER",
+    "image": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "id": 2,
     "name": "Akhil Tripathi",
-    "description": "Cofounder SciAstra, Mentor, Qualified NEST, Master's Student at NISER",
-    "image": "https://example.com/university_b_image.jpg"
+    "designation": "Cofounder SciAstra, Mentor, Qualified NEST, Master's Student at NISER",
+    "image": "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "id": 3,
     "name": "Dr. Omkar",
-    "description": "Principal Project Scientist at Indian Institute of Technology, Madras",
-    "image": "https://example.com/university_c_image.jpg"
+    "designation": "Principal Project Scientist at Indian Institute of Technology, Madras",
+    "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600"
   }
 ]
