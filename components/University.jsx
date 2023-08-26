@@ -1,5 +1,5 @@
 import Image from "next/image";
-import universityData from "../public/university.json";
+import universitiesData from "../public/university.json";
 
 const University = () => {
   return (
@@ -12,7 +12,7 @@ const University = () => {
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-        {universityData.map((item) => (
+        {universitiesData.map((item) => (
           <div key={item.id} className="shadow-2xl p-5 rounded-xl">
             <div className="space-y-2">
               <Image
