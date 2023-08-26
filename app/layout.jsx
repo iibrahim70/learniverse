@@ -1,6 +1,7 @@
 import Navbar from "@/components/Navbar";
 import "./globals.css";
 import { Roboto } from "next/font/google";
+import { TanstackQueryProvider } from "@/utils/TanstackQueryProvider";
 
 const roboto = Roboto({
   subsets: ["latin"],

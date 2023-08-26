@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Massachusetts Institute of Technology",
+    "description": "MIT is a world-renowned institution known for cutting-edge research in various fields of science and technology.",
+    "image": "https://images.pexels.com/photos/6147276/pexels-photo-6147276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "id": 2,
+    "name": "Stanford University",
+    "description": "Stanford is a prestigious university with a strong emphasis on research and innovation across multiple disciplines.",
+    "image": "https://images.pexels.com/photos/5940845/pexels-photo-5940845.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 3,
+    "name": "Harvard University",
+    "description": "Harvard is a leading institution in the world of academia and research, covering a wide range of scientific fields.",
+    "image": "https://images.pexels.com/photos/3791681/pexels-photo-3791681.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "name": "California Institute of Technology",
+    "description": "Caltech is known for its rigorous scientific research programs and contributions to various scientific discoveries.",
+    "image": "https://images.pexels.com/photos/159514/yale-university-landscape-universities-schools-159514.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 5,
+    "name": "University of Oxford",
+    "description": "Oxford has a rich history of scientific achievement and is home to numerous world-class research facilities.",
+    "image": "https://images.pexels.com/photos/6147267/pexels-photo-6147267.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 6,
+    "name": "University of Cambridge",
+    "description": "Cambridge is renowned for its contributions to science and its long-standing tradition of academic excellence.",
+    "image": "https://images.pexels.com/photos/2305098/pexels-photo-2305098.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 7,
+    "name": "ETH Zurich - Swiss Federal Institute of Technology",
+    "description": "ETH Zurich is a leading European institution in the fields of science, engineering, and technology.",
+    "image": "https://images.pexels.com/photos/5554238/pexels-photo-5554238.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 8,
+    "name": "University of California, Berkeley",
+    "description": "UC Berkeley is known for its top-tier research programs and its role in advancing scientific knowledge.",
+    "image": "https://images.pexels.com/photos/5965688/pexels-photo-5965688.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 9,
+    "name": "Princeton University",
+    "description": "Princeton is renowned for its research initiatives and contributions to various scientific disciplines.",
+    "image": "https://images.pexels.com/photos/7683908/pexels-photo-7683908.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
