@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "designation": "Professor of Computer Science",
+    "image": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg&ga=GA1.1.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 2,
+    "name": "Emily Davis",
+    "designation": "Research Scientist",
+    "image": "https://img.freepik.com/premium-photo/photo-beautiful-woman-black-carrying-bag-yellow-background_639744-2581.jpg?size=626&ext=jpg&ga=GA1.2.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 3,
+    "name": "Robert Johnson",
+    "designation": "Engineering Director",
+    "image": "https://img.freepik.com/free-photo/portrait-serious-successful-man-dressed-jacket_171337-16756.jpg?size=626&ext=jpg&ga=GA1.1.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 4,
+    "name": "Linda Wilson",
+    "designation": "Professor of Physics",
+    "image": "https://img.freepik.com/premium-photo/photo-beautiful-woman-black-carrying-bag-yellow-background_639744-2562.jpg?size=626&ext=jpg&ga=GA1.2.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 5,
+    "name": "Michael Brown",
+    "designation": "Chief Data Scientist",
+    "image": "https://img.freepik.com/premium-photo/man-have-nice-hairstyle-wearing-trendy-high-quality-printed-shirt_758367-17785.jpg?size=626&ext=jpg&ga=GA1.1.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Miller",
+    "designation": "Bioinformatics Researcher",
+    "image": "https://img.freepik.com/free-photo/sexy-blonde-with-long-curly-hair-poses-black-jacket-dark-studio_8353-5063.jpg?size=626&ext=jpg&ga=GA1.2.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 7,
+    "name": "David Lee",
+    "designation": "AI and Machine Learning Expert",
+    "image": "https://img.freepik.com/free-photo/confident-young-brunette-caucasian-boy-sun-glasses-standing-with-crossed-arms_141793-103831.jpg?size=626&ext=jpg&ga=GA1.1.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 8,
+    "name": "Jennifer Adams",
+    "designation": "Chemistry Professor",
+    "image": "https://img.freepik.com/free-photo/front-view-young-lady-showing-left-side-with-her-thumb-finger_140725-37616.jpg?size=626&ext=jpg&ga=GA1.2.950297979.1689850759&semt=ais"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Brown",
+    "designation": "Environmental Scientist",
+    "image": "https://img.freepik.com/premium-photo/real-macho-stylish-darkhaired-man-standing-looking-away-isolated-white-background_386167-2355.jpg?size=626&ext=jpg&ga=GA1.1.950297979.1689850759&semt=ais"
+  }
+]

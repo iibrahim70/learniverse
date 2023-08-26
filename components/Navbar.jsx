@@ -38,7 +38,7 @@ const Navbar = () => {
                   </svg>
                 </label>
               </div>
-              <div className="flex-1 text-xl font-medium">Learniverse</div>
+              <div className="flex-1 text-xl font-bold">Learniverse</div>
               <div className="flex-none hidden lg:block">
                 <ul className="menu menu-horizontal">{navItems}</ul>
               </div>

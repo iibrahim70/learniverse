@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Vivek Dwivedi",
+    "description": "Founder SciAstra, Mentor, Qualified NEST, JEE advanced, Mains, Master's Student at NISER",
+    "image": "https://example.com/university_a_image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Akhil Tripathi",
+    "description": "Cofounder SciAstra, Mentor, Qualified NEST, Master's Student at NISER",
+    "image": "https://example.com/university_b_image.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Omkar",
+    "description": "Principal Project Scientist at Indian Institute of Technology, Madras",
+    "image": "https://example.com/university_c_image.jpg"
+  }
+]
